@@ -1,9 +1,9 @@
 <?php
 
 $server = "localhost";
-$dbname = "blogv1";
-$user = "blogv1";
-$pwd = "pwdv1";
+$dbname = "blogV1";
+$user = "blogV1";
+$pwd = "pswd1";
 
 // PDO
 $dsn = "mysql:dbname=".$dbname.";host=".$server.";charset=utf8";
